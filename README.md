@@ -6,7 +6,7 @@
 
 - Know about my experiences: Python language and your libs: pandas, pandasql, xlwings, sqlalchemy, pyomo, docplex, pyqt6, pyodbc.
 
-- How to reach me: &nbsp;<a href="mailto:gustavohls.work@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" heigth="30"/> gustavohls.work@gmail.com </a>
+- How to reach me: &nbsp;<a href="mailto:gustavohls.work@gmail.com" target="_blank">gustavohls.work@gmail.com </a> or <a href="mailto:gustavohls_work@hotmail.com">gustavohls_work@hotmail.com</a>
   
 <br><br>
 
@@ -28,8 +28,14 @@
 <h3 align="center">Languages</h3>
 <p>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusthls&show_icons=true&locale=en&layout=compact" alt="gusthls" width="500" height="250"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusthls&show_icons=true&locale=en&layout=compact&langs_count=50&theme=merko" alt="gusthls" width="350" height="250"/> 
+  </div>
+  <br><br>
+  <div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gusthls&theme=merko" alt="gusthls" width="400"/>
   </div>
 </p>
+
+
 
 <br><br>
