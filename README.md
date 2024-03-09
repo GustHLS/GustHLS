@@ -6,7 +6,7 @@
 
 - Know about my experiences: Python language and your libs: pandas, pandasql, xlwings, sqlalchemy, pyomo, docplex, pyqt6, pyodbc.
 
-- How to reach me: &nbsp;<a href="mailto:gustavohls.work@gmail.com" target="_blank">gustavohls.work@gmail.com </a> or <a href="mailto:gustavohls_work@hotmail.com">gustavohls_work@hotmail.com</a>
+- How to reach me: &nbsp;<a href="mailto:gustavohls.dev@gmail.com" target="_blank">gustavohls.dev@gmail.com </a> or <a href="mailto:gustavohls.dev@hotmail.com">gustavohls.dev@hotmail.com</a>
   
 <br><br>
 
