@@ -2,7 +2,7 @@
 <h3 align="center">Back-end Developer | Front-end Developer</h3>
 
 <br><br>
-- I’m currently learning **Django, Git, Elixir, Golang and Dart**
+- I’m currently learning **Django, React, Node.js, Angular and Express.js**
 
 - Know about my experiences: Python language and your libs: pandas, pandasql, xlwings, sqlalchemy, pyomo, docplex, pyqt6, pyodbc.
 
