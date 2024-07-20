@@ -2,9 +2,9 @@
 <h3 align="center">Back-end Developer | Front-end Developer</h3>
 
 <br><br>
-- I’m currently learning **Django, React, Node.js, Angular and Express.js**
+- I’m currently learning **Django & Python | Vue.js & JavaScript | Laravel & PHP**
 
-- Know about my experiences: Python language and your libs: pandas, pandasql, xlwings, sqlalchemy, pyomo, docplex, pyqt6, pyodbc.
+- Know about my experiences: Python FullStack: PyQt6 & Django to Front, SQLServer, PostgreSQL and SQLite to DB.
 
 - How to reach me: &nbsp;<a href="mailto:gustavohls.dev@gmail.com" target="_blank">gustavohls.dev@gmail.com </a> or <a href="mailto:gustavohls.dev@hotmail.com">gustavohls.dev@hotmail.com</a>
   
