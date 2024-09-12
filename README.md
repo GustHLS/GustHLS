@@ -2,7 +2,7 @@
 <br><br>
 <div align="center">
   
-  I’m currently learning **Django & Python | Vue.js & JavaScript | Laravel & PHP**<br>
+  I’m currently learning **Django & Python | C# & .NET | Laravel & PHP**<br>
   How to reach me: &nbsp;<a href="mailto:gustavohls.dev@gmail.com" target="_blank">gustavohls.dev@gmail.com </a> or <a href="mailto:gustavohls.dev@hotmail.com">gustavohls.dev@hotmail.com</a>
   
 </div>
