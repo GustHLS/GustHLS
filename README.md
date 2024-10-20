@@ -4,8 +4,7 @@
 
   <br>
   
-  | [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gusthls) | [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gusthls) | [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavohls.dev@gmail.com) |
-  | ----------- | ----------- | ----------- |
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gusthls) &nbsp;&nbsp;&nbsp; [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gusthls) &nbsp;&nbsp; [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavohls.dev@gmail.com) 
 
   <br>
   <br>
