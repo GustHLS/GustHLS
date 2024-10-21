@@ -20,7 +20,7 @@
   <br>
   <br>
 
-  ![My Skills](https://skillicons.dev/icons?i=git,github,python,qt,django,flask,cs,cpp,c,dotnet,java,spring,php,laravel,javascript,react,vue,nodejs,html,css,bootstrap,sqlite,postgres,mysql,mongodb,pycharm,vscode,visualstudio,eclipse,idea)
+  ![My Skills](https://skillicons.dev/icons?i=git,github,python,qt,django,flask,cs,cpp,c,dotnet,java,spring,php,laravel,javascript,react,vue,nodejs,html,css,bootstrap,sqlite,postgres,mysql,docker,pycharm,vscode,visualstudio,eclipse,idea)
 
 </div>
   
